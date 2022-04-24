@@ -2,6 +2,9 @@
 
 Reference: https://www.youtube.com/watch?v=cgG2_tBDWjE
 
+## Installation
+- npm / npx
+
 ## Start
 
 Initiate project:
@@ -9,8 +12,8 @@ Initiate project:
 npx create-react-app .
 ```
 
-# Dependencies
-- npm add axios
+## Dependencies
+- Rest: npm add axios
 
 ## Delete unecessary (for this project)
 - App.test.js
@@ -46,7 +49,12 @@ And also In App.js remove::
     </header>
 ```
 
-# API
+## Start code
+- Logic & html structure: `App.js`
+- Add more component to reuse: `/components`
+- Styling: `App.css`
+
+## API
 
 coins: https://documenter.getpostman.com/view/5734027/RzZ6Hzr3
 
