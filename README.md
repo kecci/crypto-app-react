@@ -5,7 +5,7 @@ Reference: https://www.youtube.com/watch?v=cgG2_tBDWjE
 ## Installation
 - npm / npx
 
-## Start
+## Initiate
 
 Initiate project:
 ```
@@ -49,7 +49,7 @@ And also In App.js remove::
     </header>
 ```
 
-## Start code
+## Coding
 - Logic & html structure: `App.js`
 - Add more component to reuse: `/components`
 - Styling: `App.css`
