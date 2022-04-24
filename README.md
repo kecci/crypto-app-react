@@ -2,6 +2,8 @@
 
 Reference: https://www.youtube.com/watch?v=cgG2_tBDWjE
 
+![Web Example](/assets/web.png)
+
 ## Installation
 - npm / npx
 
