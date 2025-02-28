@@ -6,7 +6,7 @@ Reference: https://www.youtube.com/watch?v=cgG2_tBDWjE
 Visit: [https://crypto-app-kohl.vercel.app/](https://crypto-app-kohl.vercel.app/)
 
 ## Installation
-- npm / npx
+- npm / npx / yarn
 
 ## Initiate
 
@@ -15,8 +15,22 @@ Initiate project:
 npx create-react-app .
 ```
 
-## Dependencies
-- Rest: npm add axios
+## Add Dependencies
+Install Restful Client: 
+```
+npm add axios
+```
+
+## Install All Dependencies
+Download all dependencies:
+```
+yarn install
+```
+
+## Start the services.
+```
+yarn start
+```
 
 ## Delete unecessary (for this project)
 - App.test.js
